@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="network_troubles_message_margin">8dp</dimen>
+    <dimen name="network_troubles_message_text_size">18sp</dimen>
+    <dimen name="loading_items_progress_padding">18dp</dimen>
+    <dimen name="list_bottom_margin">5dp</dimen>
+    <dimen name="text_padding">15dp</dimen>
+</resources>

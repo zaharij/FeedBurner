@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FeedBurner</string>
+    <string name="wifi_reconnected">WiFi Connected</string>
+    <string name="gsm_data_available">GSM Data Available</string>
+    <string name="network_not_available">Network not available</string>
+
+    <string name="network_connection_troubles_message">There is no internet connection</string>
+    <string name="retry_connection_button">Retry</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

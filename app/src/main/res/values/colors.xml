@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="app_background">#FFFFFF</color>
+    <color name="network_troubles_message">#ffffff</color>
+    <color name="button_text">#fcfcfc</color>
+    <color name="message_background">#3d82e9</color>
+</resources>
